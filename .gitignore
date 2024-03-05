@@ -1,0 +1,6 @@
+*.a
+*.o
+.update.timestamp
+nimbus-build-system.paths
+build/main
+Nim.nimble-link
